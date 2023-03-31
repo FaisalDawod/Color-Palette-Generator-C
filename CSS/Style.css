@@ -1,0 +1,17 @@
+.color-box {
+	width: 150px;
+	height: 150px;
+	margin: 10px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	font-weight: bold;
+	font-size: 20px;
+	color: white;
+	cursor: pointer;
+	transition: transform 0.2s;
+}
+.color-box:hover {
+	transform: scale(1.1);
+}
+
