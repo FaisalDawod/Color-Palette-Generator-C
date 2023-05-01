@@ -1,4 +1,4 @@
-# Color Palette Generator in C Version 1.2
+# Color Palette Generator Version 1.2
 
 ### Overview
 This application generates a color palette consisting of five colors each time the "Generate Palette" button is clicked. The user can copy the HEX-Code by clicking on the "Copy Hex" button. The colors are displayed on the webpage within colored boxes, represented as hex codes.
